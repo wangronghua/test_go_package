@@ -15,5 +15,5 @@ func Multi(a, b int) int {
 }
 
 func init() {
-	fmt.Println("测试包已初始化")
+	fmt.Println("测试包已初始化2")
 }

@@ -1,4 +1,4 @@
-module github.com/wangronghua/test_go_package
+module github.com/wangronghua/test_go_package/v5
 
 go 1.22.5
 
