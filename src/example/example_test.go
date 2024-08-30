@@ -5,7 +5,7 @@ import (
 )
 
 func TestAdd(t *testing.T) {
-	r := add(2, 4)
+	r := Add(2, 4)
 	if r != 6 {
 		t.Fatalf("add(2, 4) error, expect:%d, actual:%d", 6, r)
 		// t.Errorf("Expected %d, got %d", 6, r)
